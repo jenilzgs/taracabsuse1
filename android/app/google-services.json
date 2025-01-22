@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "853524928034",
+    "project_id": "tara-fac10",
+    "storage_bucket": "tara-fac10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853524928034:android:eb74ac313bd764abe61c7b",
+        "android_client_info": {
+          "package_name": "com.customer.taracabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853524928034-fkihe94jnfijata4o90qc0tuefmakdrh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.customer.taracabs",
+            "certificate_hash": "cc41fd5e21f5547c7e9550156d4e5fb594561977"
+          }
+        },
+        {
+          "client_id": "853524928034-enbpda2po83lc9qgp3g7ehkt2i4943kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3fEX18cG3fb4Z-A5RceLp29i43BVKRU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853524928034-enbpda2po83lc9qgp3g7ehkt2i4943kk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "853524928034-jiuh4bl3id158jjmub1fjkcd35bcih4e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.driver.tarapartner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853524928034:android:816fce33e5f26a34e61c7b",
+        "android_client_info": {
+          "package_name": "com.driver.tarapartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853524928034-n2o6h2rmi00jbsvon5fere5r3647po4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.driver.tarapartner",
+            "certificate_hash": "cc41fd5e21f5547c7e9550156d4e5fb594561977"
+          }
+        },
+        {
+          "client_id": "853524928034-enbpda2po83lc9qgp3g7ehkt2i4943kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3fEX18cG3fb4Z-A5RceLp29i43BVKRU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853524928034-enbpda2po83lc9qgp3g7ehkt2i4943kk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "853524928034-jiuh4bl3id158jjmub1fjkcd35bcih4e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.driver.tarapartner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
